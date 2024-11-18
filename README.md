@@ -23,7 +23,3 @@ building my project as below :
 and the methods used with these locators and all the actions done within the pages classes.
 - the Hook class "src/test/java/org/example/stepDefs/Hooks.java" which are blocks of code that run before or after each scenario, Hooks allows us to better manage the code workflow and helps us to reduce the code redundancy. We can say that it is an unseen step, which allows us to perform our scenarios or tests
 - the Runner class "src/test/java/org/example/testRunner/Runners.java" to build a Communication between Feature Files and StepDefinition Files, just a tool that is used to run or execute tests and export results. after each run a target folder will be generated automatically and contains all the test reports.
-
-
-## Manual Task 
-    - I created a feature file "src/main/resources/Manual Task", containing the scenarios with steps (BDD), a happy scenario, and another scenario that covers all other scenarios by applying the requirements to the submitted test data.
